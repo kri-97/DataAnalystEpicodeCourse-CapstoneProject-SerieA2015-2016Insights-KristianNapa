@@ -1,0 +1,1 @@
+In questa sezione sono raccolte le 38 partite disputate dalla AS Roma nella stagione 2015/2016. Ogni file contiene visualizzazioni realizzate in Python con le librerie matplotlib e mplsoccer. Gli insight principali includono: la heatmap dei passaggi della singola partita, la posizione media dei giocatori in campo e la rete di passaggi più utilizzata durante l'incontro.
