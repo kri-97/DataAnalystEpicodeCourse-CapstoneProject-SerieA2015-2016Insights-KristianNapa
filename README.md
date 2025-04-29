@@ -1,5 +1,7 @@
 # 📊 Serie A 2015/2016: Approfondimento Analitico con Python e Power BI
 
+Il report principale del progetto è disponibile nella cartella CapstoneProject con il nome capstoneProject.pbix.
+
 ## 🎯 Obiettivi del Progetto
 L’obiettivo generale del progetto è la realizzazione di uno strumento interattivo, basato su Power BI, in grado di rispondere a domande analitiche come:
 1) Come si differenziano le squadre tra loro?
@@ -10,8 +12,8 @@ Un focus particolare è stato dedicato all'analisi della AS Roma, con l'obiettiv
 
 ## 📁 Struttura del Repository
 All'interno della cartella CapstoneProject si trovano i due file principali:
-1) .ipynb: Notebook Jupyter con l'analisi esplorativa dei dati (EDA) e la costruzione delle tabelle origine per Power BI.
-2) .pbix: Il report interattivo completo sviluppato in Power BI.
+1) [EDA] - FullSeasonOverview.ipynb: Notebook Jupyter con l'analisi esplorativa dei dati (EDA) e la costruzione delle tabelle origine per Power BI.
+2) capstoneProject.pbix: Il report interattivo completo sviluppato in Power BI.
 
 ## 🔍 Origine dei Dati
 I dati utilizzati provengono dal repository open source di StatsBomb Open Data.
@@ -30,6 +32,11 @@ Questa fase ha permesso di conoscere la granularità e le potenzialità dei dati
 
 ## 🏗️ Costruzione del Modello per Power BI
 Una volta analizzata la struttura dei dati, è stato sviluppato in Python un processo di estrazione, trasformazione e selezione delle informazioni più rilevanti, con l'obiettivo di creare un modello dati pulito ed efficiente per Power BI.
+### Supporto tramite Diagramma Entity Relationship (ER)
+Durante questa fase, è stato creato un diagramma Entity Relationship (ER) per progettare in modo chiaro e coerente la struttura delle tabelle da utilizzare in Power BI.
+L'ER è stato fondamentale per:
+1) Visualizzare l'intero flusso dei dati a colpo d'occhio, facilitando anche il caricamento e la gestione in Power BI.
+2) Identificare le relazioni logiche tra le entità principali (partite, squadre, allenatori, giocatori, eventi).
 ### Tabelle create:
 Tabelle Dimensionali:
 1) DimCoaches
