@@ -1,4 +1,4 @@
-#📊 Serie A 2015/2016: Approfondimento Analitico con Python e Power BI
+# 📊 Serie A 2015/2016: Approfondimento Analitico con Python e Power BI
 
 ## 🎯 Obiettivi del Progetto
 L’obiettivo generale del progetto è la realizzazione di uno strumento interattivo, basato su Power BI, in grado di rispondere a domande analitiche come:
