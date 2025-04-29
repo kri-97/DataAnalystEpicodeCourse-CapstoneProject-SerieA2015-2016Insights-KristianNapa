@@ -1,0 +1,7 @@
+{
+    "name": "AS Roma Theme",
+    "dataColors": ["#8E1F2F", "#F0BC42", "#CACACC", "#000000"],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#8E1F2F"
+  }
