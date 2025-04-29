@@ -1,0 +1,381 @@
+match_id,match_week,stadium_name,referee_name,home_coach,away_coach,home_team_name,away_team_name,home_score,away_score
+3878541,1,Stadio Marc''Antonio Bentegodi,Marco Guida,Andrea Mandorlini,Rudi Garcia,Hellas Verona,AS Roma,1,1
+3878540,1,Estadio Olímpico,Gianluca Rocchi,Stefano Pioli,Delio Rossi,Lazio,Bologna,2,1
+3878549,1,Stadio Carlo Castellani,Maurizio Mariani,Marco Giampaolo,Rolando Maran,Empoli,Chievo,1,3
+3878548,1,Allianz Stadium    	,Paolo Silvio Mazzoleni,Massimiliano Allegri,Stefano Colantuono,Juventus,Udinese,0,1
+3878547,1,Stadio Comunale Matusa,Luca Banti,Roberto Stellone,Gian Piero Ventura	,Frosinone,Torino,1,2
+3878546,1,MAPEI Stadium - Città del Tricolore,Daniele Doveri,Eusebio Di Francesco,Maurizio Sarri,Sassuolo,Napoli,2,1
+3878545,1,Stadio Comunale Luigi Ferraris,Michael Fabbri,Walter Zenga,Fabrizio Castori,Sampdoria,Carpi,5,2
+3878544,1,Stadio Renzo Barbera,Massimiliano Irrati,Giuseppe Iachini,Gian Piero Gasperini,Palermo,Genoa,1,0
+3878543,1,Stadio Giuseppe Meazza    ,Gianpaolo Calvarese	,Roberto Mancini,Edoardo Reja,Inter Milan,Atalanta,1,0
+3878542,1,Stadio Artemio Franchi    	,Paolo Valeri,Paulo Manuel Carvalho de Sousa,Siniša Mihajlović,Fiorentina,AC Milan,2,0
+3878551,2,Stadio Giuseppe Meazza    ,Piero Giacomelli,Siniša Mihajlović,Marco Giampaolo,AC Milan,Empoli,2,1
+3878550,2,Stadio Renato Dall''Ara,Carmine Russo,Delio Rossi,Eusebio Di Francesco,Bologna,Sassuolo,0,1
+3878559,2,Gewiss Stadium,Domenico Celi,Edoardo Reja,Roberto Stellone,Atalanta,Frosinone,2,0
+3878558,2,Stadio Diego Armando Maradona,Andrea Gervasoni,Maurizio Sarri,Walter Zenga,Napoli,Sampdoria,2,2
+3878557,2,Dacia Arena,Antonio Damato,Stefano Colantuono,Giuseppe Iachini,Udinese,Palermo,0,1
+3878556,2,Stadio Olimpico Grande Torino,Paolo Tagliavento,Gian Piero Ventura	,Paulo Manuel Carvalho de Sousa,Torino,Fiorentina,3,1
+3878555,2,Estadio Olímpico,Nicola Rizzoli,Rudi Garcia,Massimiliano Allegri,AS Roma,Juventus,2,1
+3878554,2,Stadio Comunale Luigi Ferraris,Daniele Orsato,Gian Piero Gasperini,Andrea Mandorlini,Genoa,Hellas Verona,2,0
+3878553,2,Stadio Marc''Antonio Bentegodi,Marco Di Bello,Rolando Maran,Stefano Pioli,Chievo,Lazio,4,0
+3878552,2,Stadio Alberto Braglia (Modena),Davide Massa,Fabrizio Castori,Roberto Mancini,Carpi,Inter Milan,1,2
+3878594,3,Allianz Stadium    	,Marco Guida,Massimiliano Allegri,Rolando Maran,Juventus,Chievo,1,1
+3878593,3,Stadio Comunale Matusa,Andrea Gervasoni,Roberto Stellone,Rudi Garcia,Frosinone,AS Roma,0,2
+3878592,3,Stadio Artemio Franchi    	,Daniele Doveri,Paulo Manuel Carvalho de Sousa,Gian Piero Gasperini,Fiorentina,Genoa,1,0
+3878600,3,Stadio Giuseppe Meazza    ,Gianluca Rocchi,Roberto Mancini,Siniša Mihajlović,Inter Milan,AC Milan,1,0
+3878599,3,MAPEI Stadium - Città del Tricolore,Maurizio Mariani,Eusebio Di Francesco,Edoardo Reja,Sassuolo,Atalanta,2,2
+3878598,3,Stadio Renzo Barbera,Claudio Gavillucci,Giuseppe Iachini,Fabrizio Castori,Palermo,Carpi,2,2
+3878597,3,Stadio Carlo Castellani,Luca Banti,Marco Giampaolo,Maurizio Sarri,Empoli,Napoli,2,2
+3878596,3,Stadio Marc''Antonio Bentegodi,Massimiliano Irrati,Andrea Mandorlini,Gian Piero Ventura	,Hellas Verona,Torino,2,2
+3878595,3,Estadio Olímpico,Gianpaolo Calvarese	,Stefano Pioli,Stefano Colantuono,Lazio,Udinese,2,0
+3878601,3,Stadio Comunale Luigi Ferraris,Angelo Cervellera,Walter Zenga,Delio Rossi,Sampdoria,Bologna,2,0
+3878603,4,Dacia Arena,Michael Fabbri,Stefano Colantuono,Marco Giampaolo,Udinese,Empoli,1,2
+3878602,4,Stadio Giuseppe Meazza    ,Carmine Russo,Siniša Mihajlović,Giuseppe Iachini,AC Milan,Palermo,3,2
+3878611,4,Stadio Marc''Antonio Bentegodi,Paolo Tagliavento,Rolando Maran,Roberto Mancini,Chievo,Inter Milan,0,1
+3878610,4,Gewiss Stadium,Fabio Maresca,Edoardo Reja,Andrea Mandorlini,Atalanta,Hellas Verona,1,1
+3878608,4,Stadio Renato Dall''Ara,Daniele Orsato,Delio Rossi,Roberto Stellone,Bologna,Frosinone,1,0
+3878607,4,Estadio Olímpico,Davide Massa,Rudi Garcia,Eusebio Di Francesco,AS Roma,Sassuolo,2,2
+3878606,4,Stadio Olimpico Grande Torino,Piero Giacomelli,Gian Piero Ventura	,Walter Zenga,Torino,Sampdoria,2,0
+3878605,4,Stadio Alberto Braglia (Modena),Marco Di Bello,Fabrizio Castori,Paulo Manuel Carvalho de Sousa,Carpi,Fiorentina,0,1
+3878609,4,Stadio Comunale Luigi Ferraris,Paolo Valeri,Gian Piero Gasperini,Massimiliano Allegri,Genoa,Juventus,0,2
+3878604,4,Stadio Diego Armando Maradona,Antonio Damato,Maurizio Sarri,Stefano Pioli,Napoli,Lazio,5,0
+3879537,5,Dacia Arena,Daniele Doveri,Stefano Colantuono,Siniša Mihajlović,Udinese,AC Milan,2,3
+3879545,5,Stadio Comunale Luigi Ferraris,Luca Banti,Walter Zenga,Rudi Garcia,Sampdoria,AS Roma,2,1
+3879544,5,Stadio Renzo Barbera,Luca Pairetto,Giuseppe Iachini,Eusebio Di Francesco,Palermo,Sassuolo,0,1
+3879543,5,Allianz Stadium    	,Angelo Cervellera,Massimiliano Allegri,Roberto Stellone,Juventus,Frosinone,1,1
+3879542,5,Stadio Giuseppe Meazza    ,Carmine Russo,Roberto Mancini,Andrea Mandorlini,Inter Milan,Hellas Verona,1,0
+3879541,5,Stadio Artemio Franchi    	,Gianpaolo Calvarese	,Paulo Manuel Carvalho de Sousa,Delio Rossi,Fiorentina,Bologna,2,0
+3879540,5,Stadio Marc''Antonio Bentegodi,Domenico Celi,Rolando Maran,Gian Piero Ventura	,Chievo,Torino,1,0
+3879539,5,Stadio Alberto Braglia (Modena),Gianluca Rocchi,Fabrizio Castori,Maurizio Sarri,Carpi,Napoli,0,0
+3879538,5,Estadio Olímpico,Nicola Rizzoli,Stefano Pioli,Gian Piero Gasperini,Lazio,Genoa,2,0
+3879546,5,Stadio Carlo Castellani,Claudio Gavillucci,Marco Giampaolo,Edoardo Reja,Empoli,Atalanta,0,1
+3879548,6,Stadio Diego Armando Maradona,Daniele Orsato,Maurizio Sarri,Massimiliano Allegri,Napoli,Juventus,2,1
+3879547,6,Estadio Olímpico,Massimiliano Irrati,Rudi Garcia,Fabrizio Castori,AS Roma,Carpi,5,1
+3879554,6,Stadio Olimpico Grande Torino,Maurizio Mariani,Gian Piero Ventura	,Giuseppe Iachini,Torino,Palermo,2,1
+3879553,6,MAPEI Stadium - Città del Tricolore,Michael Fabbri,Eusebio Di Francesco,Rolando Maran,Sassuolo,Chievo,1,1
+3879552,6,Stadio Renato Dall''Ara,Andrea Gervasoni,Delio Rossi,Stefano Colantuono,Bologna,Udinese,1,2
+3879551,6,Stadio Marc''Antonio Bentegodi,Piero Giacomelli,Andrea Mandorlini,Stefano Pioli,Hellas Verona,Lazio,1,2
+3879550,6,Stadio Giuseppe Meazza    ,Antonio Damato,Roberto Mancini,Paulo Manuel Carvalho de Sousa,Inter Milan,Fiorentina,1,4
+3879549,6,Stadio Comunale Luigi Ferraris,Paolo Tagliavento,Gian Piero Gasperini,Siniša Mihajlović,Genoa,AC Milan,1,0
+3879556,6,Stadio Comunale Matusa,Marco Guida,Roberto Stellone,Marco Giampaolo,Frosinone,Empoli,2,0
+3879555,6,Gewiss Stadium,Paolo Valeri,Edoardo Reja,Walter Zenga,Atalanta,Sampdoria,2,1
+3879558,7,Stadio Alberto Braglia (Modena),Carmine Russo,Giuseppe Sannino,Gian Piero Ventura	,Carpi,Torino,2,1
+3879557,7,Stadio Marc''Antonio Bentegodi,Daniele Doveri,Rolando Maran,Andrea Mandorlini,Chievo,Hellas Verona,1,1
+3879566,7,Dacia Arena,Angelo Cervellera,Stefano Colantuono,Gian Piero Gasperini,Udinese,Genoa,1,1
+3879564,7,Stadio Renzo Barbera,Antonio Damato,Giuseppe Iachini,Rudi Garcia,Palermo,AS Roma,2,4
+3879562,7,Stadio Giuseppe Meazza    ,Nicola Rizzoli,Siniša Mihajlović,Maurizio Sarri,AC Milan,Napoli,0,4
+3879565,7,Stadio Comunale Luigi Ferraris,Gianluca Rocchi,Walter Zenga,Roberto Mancini,Sampdoria,Inter Milan,1,1
+3879563,7,Stadio Carlo Castellani,Gianpaolo Calvarese	,Marco Giampaolo,Eusebio Di Francesco,Empoli,Sassuolo,1,0
+3879561,7,Stadio Artemio Franchi    	,Davide Massa,Paulo Manuel Carvalho de Sousa,Edoardo Reja,Fiorentina,Atalanta,3,0
+3879560,7,Estadio Olímpico,Marco Di Bello,Stefano Pioli,Roberto Stellone,Lazio,Frosinone,2,0
+3879559,7,Allianz Stadium    	,Domenico Celi,Massimiliano Allegri,Delio Rossi,Juventus,Bologna,3,1
+3879567,8,Estadio Olímpico,Piero Giacomelli,Rudi Garcia,Marco Giampaolo,AS Roma,Empoli,3,1
+3879568,8,Stadio Olimpico Grande Torino,Andrea Gervasoni,Gian Piero Ventura	,Siniša Mihajlović,Torino,AC Milan,1,1
+3879576,8,Stadio Comunale Matusa,Massimiliano Irrati,Roberto Stellone,Walter Zenga,Frosinone,Sampdoria,2,0
+3879575,8,Stadio Marc''Antonio Bentegodi,Claudio Gavillucci,Andrea Mandorlini,Stefano Colantuono,Hellas Verona,Udinese,1,1
+3879574,8,Stadio Giuseppe Meazza    ,Paolo Valeri,Roberto Mancini,Massimiliano Allegri,Inter Milan,Juventus,0,0
+3879573,8,MAPEI Stadium - Città del Tricolore,Marco Guida,Eusebio Di Francesco,Stefano Pioli,Sassuolo,Lazio,2,1
+3879572,8,Stadio Diego Armando Maradona,Luca Banti,Maurizio Sarri,Paulo Manuel Carvalho de Sousa,Napoli,Fiorentina,2,1
+3879571,8,Gewiss Stadium,Fabrizio Pasqua,Edoardo Reja,Giuseppe Sannino,Atalanta,Carpi,3,0
+3879570,8,Stadio Comunale Luigi Ferraris,Paolo Silvio Mazzoleni,Gian Piero Gasperini,Rolando Maran,Genoa,Chievo,3,2
+3879569,8,Stadio Renato Dall''Ara,Michael Fabbri,Delio Rossi,Giuseppe Iachini,Bologna,Palermo,0,1
+3879579,9,Stadio Renzo Barbera,Daniele Doveri,Giuseppe Iachini,Roberto Mancini,Palermo,Inter Milan,1,1
+3879578,9,Stadio Alberto Braglia (Modena),Paolo Tagliavento,Giuseppe Sannino,Delio Rossi,Carpi,Bologna,1,2
+3879577,9,Stadio Carlo Castellani,Domenico Celi,Marco Giampaolo,Gian Piero Gasperini,Empoli,Genoa,2,0
+3879585,9,Stadio Giuseppe Meazza    ,Gianluca Rocchi,Siniša Mihajlović,Eusebio Di Francesco,AC Milan,Sassuolo,2,1
+3879582,9,Estadio Olímpico,Paolo Silvio Mazzoleni,Stefano Pioli,Gian Piero Ventura	,Lazio,Torino,3,0
+3879586,9,Stadio Comunale Luigi Ferraris,Maurizio Mariani,Walter Zenga,Andrea Mandorlini,Sampdoria,Hellas Verona,4,1
+3879584,9,Dacia Arena,Nicola Rizzoli,Stefano Colantuono,Roberto Stellone,Udinese,Frosinone,1,0
+3879583,9,Stadio Artemio Franchi    	,Daniele Orsato,Paulo Manuel Carvalho de Sousa,Rudi Garcia,Fiorentina,AS Roma,1,2
+3879581,9,Stadio Marc''Antonio Bentegodi,Davide Massa,Rolando Maran,Maurizio Sarri,Chievo,Napoli,0,1
+3879580,9,Allianz Stadium    	,Marco Di Bello,Massimiliano Allegri,Edoardo Reja,Juventus,Atalanta,2,0
+3879587,10,Stadio Renato Dall''Ara,Luca Banti,Delio Rossi,Roberto Mancini,Bologna,Inter Milan,0,1
+3879595,10,Stadio Marc''Antonio Bentegodi,Paolo Valeri,Andrea Mandorlini,Paulo Manuel Carvalho de Sousa,Hellas Verona,Fiorentina,0,2
+3879594,10,Stadio Giuseppe Meazza    ,Gianpaolo Calvarese	,Siniša Mihajlović,Rolando Maran,AC Milan,Chievo,1,0
+3879593,10,Stadio Diego Armando Maradona,Piero Giacomelli,Maurizio Sarri,Giuseppe Iachini,Napoli,Palermo,2,0
+3879592,10,Estadio Olímpico,Carmine Russo,Rudi Garcia,Stefano Colantuono,AS Roma,Udinese,3,1
+3879591,10,MAPEI Stadium - Città del Tricolore,Andrea Gervasoni,Eusebio Di Francesco,Massimiliano Allegri,Sassuolo,Juventus,1,0
+3879590,10,Stadio Olimpico Grande Torino,Daniele Chiffi,Gian Piero Ventura	,Gian Piero Gasperini,Torino,Genoa,3,3
+3879589,10,Stadio Comunale Matusa,Antonio Damato,Roberto Stellone,Giuseppe Sannino,Frosinone,Carpi,2,1
+3879588,10,Gewiss Stadium,Massimiliano Irrati,Edoardo Reja,Stefano Pioli,Atalanta,Lazio,2,1
+3879596,10,Stadio Comunale Luigi Ferraris,Angelo Cervellera,Walter Zenga,Marco Giampaolo,Sampdoria,Empoli,1,1
+3879598,11,Stadio Giuseppe Meazza    ,Nicola Rizzoli,Roberto Mancini,Rudi Garcia,Inter Milan,AS Roma,1,0
+3879597,11,Allianz Stadium    	,Gianluca Rocchi,Massimiliano Allegri,Gian Piero Ventura	,Juventus,Torino,2,1
+3879604,11,Stadio Comunale Luigi Ferraris,Daniele Doveri,Gian Piero Gasperini,Maurizio Sarri,Genoa,Napoli,0,0
+3879603,11,Dacia Arena,Federico La Penna,Stefano Colantuono,Eusebio Di Francesco,Udinese,Sassuolo,0,0
+3879602,11,Stadio Artemio Franchi    	,Michael Fabbri,Paulo Manuel Carvalho de Sousa,Roberto Stellone,Fiorentina,Frosinone,4,1
+3879601,11,Stadio Renato Dall''Ara,Marco Guida,Roberto Donadoni,Edoardo Reja,Bologna,Atalanta,3,0
+3879600,11,Stadio Alberto Braglia (Modena),Paolo Silvio Mazzoleni,Giuseppe Sannino,Andrea Mandorlini,Carpi,Hellas Verona,0,0
+3879599,11,Estadio Olímpico,Antonio Damato,Stefano Pioli,Siniša Mihajlović,Lazio,AC Milan,1,3
+3879606,11,Stadio Marc''Antonio Bentegodi,Claudio Gavillucci,Rolando Maran,Walter Zenga,Chievo,Sampdoria,1,1
+3879605,11,Stadio Renzo Barbera,Marco Di Bello,Giuseppe Iachini,Marco Giampaolo,Palermo,Empoli,0,1
+3879608,12,Stadio Marc''Antonio Bentegodi,Daniele Orsato,Andrea Mandorlini,Roberto Donadoni,Hellas Verona,Bologna,0,2
+3879607,12,Stadio Giuseppe Meazza    ,Piero Giacomelli,Siniša Mihajlović,Edoardo Reja,AC Milan,Atalanta,0,0
+3879609,12,Stadio Diego Armando Maradona,Domenico Celi,Maurizio Sarri,Stefano Colantuono,Napoli,Udinese,1,0
+3879616,12,Stadio Comunale Luigi Ferraris,Carmine Russo,Walter Zenga,Paulo Manuel Carvalho de Sousa,Sampdoria,Fiorentina,0,2
+3879615,12,MAPEI Stadium - Città del Tricolore,Paolo Valeri,Eusebio Di Francesco,Fabrizio Castori,Sassuolo,Carpi,1,0
+3879614,12,Stadio Olimpico Grande Torino,Massimiliano Irrati,Gian Piero Ventura	,Roberto Mancini,Torino,Inter Milan,0,1
+3879613,12,Stadio Carlo Castellani,Davide Massa,Marco Giampaolo,Massimiliano Allegri,Empoli,Juventus,1,3
+3879612,12,Stadio Comunale Matusa,Gianpaolo Calvarese	,Roberto Stellone,Gian Piero Gasperini,Frosinone,Genoa,2,2
+3879611,12,Stadio Renzo Barbera,Maurizio Mariani,Giuseppe Iachini,Rolando Maran,Palermo,Chievo,1,0
+3879610,12,Estadio Olímpico,Paolo Tagliavento,Rudi Garcia,Stefano Pioli,AS Roma,Lazio,2,0
+3879618,13,Allianz Stadium    	,Paolo Silvio Mazzoleni,Massimiliano Allegri,Siniša Mihajlović,Juventus,AC Milan,1,0
+3879617,13,Stadio Renato Dall''Ara,Gianluca Rocchi,Roberto Donadoni,Rudi Garcia,Bologna,AS Roma,2,2
+3879626,13,Stadio Giuseppe Meazza    ,Marco Guida,Roberto Mancini,Roberto Stellone,Inter Milan,Frosinone,4,0
+3879625,13,Dacia Arena,Marco Di Bello,Stefano Colantuono,Vincenzo Montella,Udinese,Sampdoria,1,0
+3879624,13,Estadio Olímpico,Domenico Celi,Stefano Pioli,Davide Ballardini,Lazio,Palermo,1,1
+3879623,13,Stadio Artemio Franchi    	,Luca Banti,Paulo Manuel Carvalho de Sousa,Marco Giampaolo,Fiorentina,Empoli,2,2
+3879622,13,Stadio Alberto Braglia (Modena),Fabio Maresca,Fabrizio Castori,Rolando Maran,Carpi,Chievo,1,2
+3879621,13,Gewiss Stadium,Angelo Cervellera,Edoardo Reja,Gian Piero Ventura	,Atalanta,Torino,0,1
+3879620,13,Stadio Marc''Antonio Bentegodi,Antonio Damato,Andrea Mandorlini,Maurizio Sarri,Hellas Verona,Napoli,0,2
+3879619,13,Stadio Comunale Luigi Ferraris,Nicola Rizzoli,Gian Piero Gasperini,Eusebio Di Francesco,Genoa,Sassuolo,2,1
+3879628,14,Stadio Giuseppe Meazza    ,Daniele Doveri,Siniša Mihajlović,Vincenzo Montella,AC Milan,Sampdoria,4,1
+3879627,14,Stadio Olimpico Grande Torino,Davide Ghersini,Gian Piero Ventura	,Roberto Donadoni,Torino,Bologna,2,0
+3879632,14,Estadio Olímpico,Gianpaolo Calvarese	,Rudi Garcia,Edoardo Reja,AS Roma,Atalanta,0,2
+3879634,14,Stadio Comunale Luigi Ferraris,Claudio Gavillucci,Gian Piero Gasperini,Fabrizio Castori,Genoa,Carpi,1,2
+3879633,14,Stadio Carlo Castellani,Michael Fabbri,Marco Giampaolo,Stefano Pioli,Empoli,Lazio,1,0
+3879631,14,Stadio Marc''Antonio Bentegodi,Andrea Gervasoni,Rolando Maran,Stefano Colantuono,Chievo,Udinese,2,3
+3879630,14,Stadio Renzo Barbera,Paolo Valeri,Davide Ballardini,Massimiliano Allegri,Palermo,Juventus,0,3
+3879629,14,Stadio Comunale Matusa,Nicola Rizzoli,Roberto Stellone,Andrea Mandorlini,Frosinone,Hellas Verona,3,2
+3879636,14,MAPEI Stadium - Città del Tricolore,Davide Massa,Eusebio Di Francesco,Paulo Manuel Carvalho de Sousa,Sassuolo,Fiorentina,1,1
+3879635,14,Stadio Diego Armando Maradona,Daniele Orsato,Maurizio Sarri,Roberto Mancini,Napoli,Inter Milan,2,1
+3879637,15,Estadio Olímpico,Luca Banti,Stefano Pioli,Massimiliano Allegri,Lazio,Juventus,0,2
+3879639,15,Stadio Olimpico Grande Torino,Antonio Damato,Gian Piero Ventura	,Rudi Garcia,Torino,AS Roma,1,1
+3879638,15,Stadio Giuseppe Meazza    ,Piero Giacomelli,Roberto Mancini,Gian Piero Gasperini,Inter Milan,Genoa,1,0
+3879645,15,Stadio Renato Dall''Ara,Paolo Silvio Mazzoleni,Roberto Donadoni,Maurizio Sarri,Bologna,Napoli,3,2
+3879646,15,Stadio Artemio Franchi    	,Marco Guida,Paulo Manuel Carvalho de Sousa,Stefano Colantuono,Fiorentina,Udinese,3,0
+3879644,15,Gewiss Stadium,Carmine Russo,Edoardo Reja,Davide Ballardini,Atalanta,Palermo,3,0
+3879643,15,Stadio Comunale Luigi Ferraris,Maurizio Mariani,Vincenzo Montella,Eusebio Di Francesco,Sampdoria,Sassuolo,1,3
+3879642,15,Stadio Alberto Braglia (Modena),Massimiliano Irrati,Fabrizio Castori,Siniša Mihajlović,Carpi,AC Milan,0,0
+3879641,15,Stadio Marc''Antonio Bentegodi,Paolo Tagliavento,Luigi Delneri,Marco Giampaolo,Hellas Verona,Empoli,0,1
+3879640,15,Stadio Comunale Matusa,Gianluca Rocchi,Roberto Stellone,Rolando Maran,Frosinone,Chievo,0,2
+3879649,16,Stadio Renzo Barbera,Daniele Doveri,Davide Ballardini,Roberto Stellone,Palermo,Frosinone,4,1
+3879648,16,Dacia Arena,Davide Massa,Stefano Colantuono,Roberto Mancini,Udinese,Inter Milan,0,4
+3879647,16,Stadio Comunale Luigi Ferraris,Marco Di Bello,Gian Piero Gasperini,Roberto Donadoni,Genoa,Bologna,0,1
+3879653,16,Allianz Stadium    	,Daniele Orsato,Massimiliano Allegri,Paulo Manuel Carvalho de Sousa,Juventus,Fiorentina,3,1
+3879654,16,Stadio Marc''Antonio Bentegodi,Fabrizio Pasqua,Rolando Maran,Edoardo Reja,Chievo,Atalanta,1,0
+3879652,16,Stadio Giuseppe Meazza    ,Paolo Valeri,Siniša Mihajlović,Luigi Delneri,AC Milan,Hellas Verona,1,1
+3879651,16,Stadio Diego Armando Maradona,Nicola Rizzoli,Maurizio Sarri,Rudi Garcia,Napoli,AS Roma,0,0
+3879650,16,Stadio Carlo Castellani,Angelo Cervellera,Marco Giampaolo,Fabrizio Castori,Empoli,Carpi,3,0
+3879655,16,Estadio Olímpico,Gianpaolo Calvarese	,Stefano Pioli,Vincenzo Montella,Lazio,Sampdoria,1,1
+3879656,17,Stadio Renato Dall''Ara,Maurizio Mariani,Roberto Donadoni,Marco Giampaolo,Bologna,Empoli,2,3
+3879665,17,Stadio Comunale Matusa,Luca Banti,Roberto Stellone,Siniša Mihajlović,Frosinone,AC Milan,2,4
+3879663,17,Stadio Marc''Antonio Bentegodi,Marco Guida,Luigi Delneri,Eusebio Di Francesco,Hellas Verona,Sassuolo,1,1
+3879664,17,Stadio Comunale Luigi Ferraris,Michael Fabbri,Vincenzo Montella,Davide Ballardini,Sampdoria,Palermo,2,0
+3879662,17,Stadio Artemio Franchi    	,Paolo Tagliavento,Paulo Manuel Carvalho de Sousa,Rolando Maran,Fiorentina,Chievo,2,0
+3879661,17,Gewiss Stadium,Gianluca Rocchi,Edoardo Reja,Maurizio Sarri,Atalanta,Napoli,1,3
+3879660,17,Stadio Alberto Braglia (Modena),Piero Giacomelli,Fabrizio Castori,Massimiliano Allegri,Carpi,Juventus,2,3
+3879659,17,Stadio Giuseppe Meazza    ,Paolo Silvio Mazzoleni,Roberto Mancini,Stefano Pioli,Inter Milan,Lazio,1,2
+3879658,17,Stadio Olimpico Grande Torino,Claudio Gavillucci,Gian Piero Ventura	,Stefano Colantuono,Torino,Udinese,0,1
+3879657,17,Estadio Olímpico,Andrea Gervasoni,Rudi Garcia,Gian Piero Gasperini,AS Roma,Genoa,2,0
+3879666,18,Stadio Comunale Luigi Ferraris,Paolo Valeri,Gian Piero Gasperini,Vincenzo Montella,Genoa,Sampdoria,2,3
+3879675,18,Estadio Olímpico,Carmine Russo,Stefano Pioli,Fabrizio Castori,Lazio,Carpi,0,0
+3879674,18,Stadio Giuseppe Meazza    ,Davide Massa,Siniša Mihajlović,Roberto Donadoni,AC Milan,Bologna,0,1
+3879673,18,Dacia Arena,Angelo Cervellera,Stefano Colantuono,Edoardo Reja,Udinese,Atalanta,2,1
+3879672,18,Stadio Marc''Antonio Bentegodi,Massimiliano Irrati,Rolando Maran,Rudi Garcia,Chievo,AS Roma,3,3
+3879671,18,Stadio Renzo Barbera,Antonio Damato,Davide Ballardini,Paulo Manuel Carvalho de Sousa,Palermo,Fiorentina,1,3
+3879670,18,Allianz Stadium    	,Gianpaolo Calvarese	,Massimiliano Allegri,Luigi Delneri,Juventus,Hellas Verona,3,0
+3879669,18,Stadio Diego Armando Maradona,Marco Di Bello,Maurizio Sarri,Gian Piero Ventura	,Napoli,Torino,2,1
+3879668,18,Stadio Carlo Castellani,Domenico Celi,Marco Giampaolo,Roberto Mancini,Empoli,Inter Milan,0,1
+3879667,18,MAPEI Stadium - Città del Tricolore,Luca Pairetto,Eusebio Di Francesco,Roberto Stellone,Sassuolo,Frosinone,2,2
+3879678,19,Stadio Alberto Braglia (Modena),Michael Fabbri,Fabrizio Castori,Stefano Colantuono,Carpi,Udinese,2,1
+3879677,19,Stadio Artemio Franchi    	,Nicola Rizzoli,Paulo Manuel Carvalho de Sousa,Stefano Pioli,Fiorentina,Lazio,1,3
+3879676,19,Estadio Olímpico,Daniele Orsato,Rudi Garcia,Siniša Mihajlović,AS Roma,AC Milan,1,1
+3879685,19,Gewiss Stadium,Marco Guida,Edoardo Reja,Gian Piero Gasperini,Atalanta,Genoa,0,2
+3879684,19,Stadio Comunale Luigi Ferraris,Paolo Silvio Mazzoleni,Vincenzo Montella,Massimiliano Allegri,Sampdoria,Juventus,1,2
+3879683,19,Stadio Marc''Antonio Bentegodi,Luca Banti,Luigi Delneri,Davide Ballardini,Hellas Verona,Palermo,0,1
+3879682,19,Stadio Olimpico Grande Torino,Andrea Gervasoni,Gian Piero Ventura	,Marco Giampaolo,Torino,Empoli,0,1
+3879681,19,Stadio Giuseppe Meazza    ,Daniele Doveri,Roberto Mancini,Eusebio Di Francesco,Inter Milan,Sassuolo,0,1
+3879680,19,Stadio Renato Dall''Ara,Claudio Gavillucci,Roberto Donadoni,Rolando Maran,Bologna,Chievo,0,1
+3879679,19,Stadio Comunale Matusa,Paolo Tagliavento,Roberto Stellone,Maurizio Sarri,Frosinone,Napoli,1,5
+3879688,20,Gewiss Stadium,Nicola Rizzoli,Edoardo Reja,Roberto Mancini,Atalanta,Inter Milan,1,1
+3879687,20,Stadio Olimpico Grande Torino,Massimiliano Irrati,Gian Piero Ventura	,Roberto Stellone,Torino,Frosinone,4,2
+3879686,20,Stadio Diego Armando Maradona,Piero Giacomelli,Maurizio Sarri,Eusebio Di Francesco,Napoli,Sassuolo,3,1
+3879695,20,Stadio Comunale Luigi Ferraris,Domenico Celi,Gian Piero Gasperini,Fabio Viviani,Genoa,Palermo,4,0
+3879694,20,Stadio Renato Dall''Ara,Marco Di Bello,Roberto Donadoni,Stefano Pioli,Bologna,Lazio,2,2
+3879693,20,Dacia Arena,Gianluca Rocchi,Stefano Colantuono,Massimiliano Allegri,Udinese,Juventus,0,4
+3879692,20,Stadio Marc''Antonio Bentegodi,Rosario Abisso,Rolando Maran,Marco Giampaolo,Chievo,Empoli,1,1
+3879691,20,Estadio Olímpico,Davide Massa,Luciano Spalletti,Luigi Delneri,AS Roma,Hellas Verona,1,1
+3879690,20,Stadio Giuseppe Meazza    ,Daniele Doveri,Siniša Mihajlović,Paulo Manuel Carvalho de Sousa,AC Milan,Fiorentina,2,0
+3879689,20,Stadio Alberto Braglia (Modena),Maurizio Mariani,Fabrizio Castori,Vincenzo Montella,Carpi,Sampdoria,2,1
+3879696,16,MAPEI Stadium - Città del Tricolore,Domenico Celi,Eusebio Di Francesco,Gian Piero Ventura	,Sassuolo,Torino,1,1
+3879698,21,Stadio Carlo Castellani,Carmine Russo,Marco Giampaolo,Siniša Mihajlović,Empoli,AC Milan,2,2
+3879697,21,Stadio Comunale Matusa,Paolo Valeri,Roberto Stellone,Edoardo Reja,Frosinone,Atalanta,0,0
+3879705,21,MAPEI Stadium - Città del Tricolore,Angelo Cervellera,Eusebio Di Francesco,Roberto Donadoni,Sassuolo,Bologna,0,2
+3879699,21,Stadio Comunale Luigi Ferraris,Daniele Orsato,Vincenzo Montella,Maurizio Sarri,Sampdoria,Napoli,2,4
+3879703,21,Estadio Olímpico,Gianpaolo Calvarese	,Stefano Pioli,Rolando Maran,Lazio,Chievo,4,1
+3879702,21,Stadio Marc''Antonio Bentegodi,Gianluca Rocchi,Luigi Delneri,Gian Piero Gasperini,Hellas Verona,Genoa,1,1
+3879704,21,Stadio Giuseppe Meazza    ,Andrea Gervasoni,Roberto Mancini,Fabrizio Castori,Inter Milan,Carpi,1,1
+3879701,21,Allianz Stadium    	,Luca Banti,Massimiliano Allegri,Luciano Spalletti,Juventus,AS Roma,1,0
+3879700,21,Stadio Renzo Barbera,Paolo Tagliavento,,Stefano Colantuono,Palermo,Udinese,4,1
+3879706,21,Stadio Artemio Franchi    	,Paolo Silvio Mazzoleni,Paulo Manuel Carvalho de Sousa,Gian Piero Ventura	,Fiorentina,Torino,2,0
+3879707,22,Estadio Olímpico,Marco Guida,Luciano Spalletti,Roberto Stellone,AS Roma,Frosinone,3,1
+3879709,22,Stadio Alberto Braglia (Modena),Nicola Rizzoli,Fabrizio Castori,Giovanni Tedesco,Carpi,Palermo,1,1
+3879708,22,Gewiss Stadium,Claudio Gavillucci,Edoardo Reja,Eusebio Di Francesco,Atalanta,Sassuolo,1,1
+3879716,22,Stadio Comunale Luigi Ferraris,Piero Giacomelli,Gian Piero Gasperini,Paulo Manuel Carvalho de Sousa,Genoa,Fiorentina,0,0
+3879715,22,Stadio Olimpico Grande Torino,Maurizio Mariani,Gian Piero Ventura	,Luigi Delneri,Torino,Hellas Verona,0,0
+3879714,22,Stadio Diego Armando Maradona,Davide Massa,Maurizio Sarri,Marco Giampaolo,Napoli,Empoli,5,1
+3879713,22,Stadio Marc''Antonio Bentegodi,Daniele Doveri,Rolando Maran,Massimiliano Allegri,Chievo,Juventus,0,4
+3879712,22,Stadio Giuseppe Meazza    ,Antonio Damato,Siniša Mihajlović,Roberto Mancini,AC Milan,Inter Milan,3,0
+3879711,22,Dacia Arena,Domenico Celi,Stefano Colantuono,Stefano Pioli,Udinese,Lazio,0,0
+3879710,22,Stadio Renato Dall''Ara,Michael Fabbri,Roberto Donadoni,Vincenzo Montella,Bologna,Sampdoria,3,2
+3879717,23,MAPEI Stadium - Città del Tricolore,Gianpaolo Calvarese	,Eusebio Di Francesco,Luciano Spalletti,Sassuolo,AS Roma,0,2
+3879726,23,Allianz Stadium    	,Carmine Russo,Massimiliano Allegri,Gian Piero Gasperini,Juventus,Genoa,1,0
+3879725,23,Stadio Comunale Matusa,Andrea Gervasoni,Roberto Stellone,Roberto Donadoni,Frosinone,Bologna,1,0
+3879724,23,Stadio Artemio Franchi    	,Angelo Cervellera,Paulo Manuel Carvalho de Sousa,Fabrizio Castori,Fiorentina,Carpi,2,1
+3879723,23,Stadio Giuseppe Meazza    ,Paolo Valeri,Roberto Mancini,Rolando Maran,Inter Milan,Chievo,1,0
+3879722,23,Stadio Marc''Antonio Bentegodi,Marco Di Bello,Luigi Delneri,Edoardo Reja,Hellas Verona,Atalanta,2,1
+3879721,23,Stadio Renzo Barbera,Paolo Silvio Mazzoleni,Giovanni Tedesco,Siniša Mihajlović,Palermo,AC Milan,0,2
+3879720,23,Estadio Olímpico,Massimiliano Irrati,Stefano Pioli,Maurizio Sarri,Lazio,Napoli,0,2
+3879719,23,Stadio Comunale Luigi Ferraris,Marco Guida,Vincenzo Montella,Gian Piero Ventura	,Sampdoria,Torino,2,2
+3879718,23,Stadio Carlo Castellani,Eugenio Abbattista,Marco Giampaolo,Stefano Colantuono,Empoli,Udinese,1,1
+3879728,24,Stadio Renato Dall''Ara,Luca Banti,Roberto Donadoni,Paulo Manuel Carvalho de Sousa,Bologna,Fiorentina,1,1
+3879727,24,Stadio Comunale Luigi Ferraris,Daniele Orsato,Gian Piero Gasperini,Stefano Pioli,Genoa,Lazio,0,0
+3879732,24,Stadio Olimpico Grande Torino,Gianluca Rocchi,Gian Piero Ventura	,Rolando Maran,Torino,Chievo,1,2
+3879736,24,Estadio Olímpico,Domenico Celi,Luciano Spalletti,Vincenzo Montella,AS Roma,Sampdoria,2,1
+3879735,24,Gewiss Stadium,Michael Fabbri,Edoardo Reja,Marco Giampaolo,Atalanta,Empoli,0,0
+3879734,24,Stadio Giuseppe Meazza    ,Massimiliano Irrati,Siniša Mihajlović,Stefano Colantuono,AC Milan,Udinese,1,1
+3879733,24,Stadio Comunale Matusa,Davide Massa,Roberto Stellone,Massimiliano Allegri,Frosinone,Juventus,0,2
+3879731,24,Stadio Diego Armando Maradona,Daniele Doveri,Maurizio Sarri,Fabrizio Castori,Napoli,Carpi,1,0
+3879730,24,Stadio Marc''Antonio Bentegodi,Piero Giacomelli,Luigi Delneri,Roberto Mancini,Hellas Verona,Inter Milan,3,3
+3879729,24,MAPEI Stadium - Città del Tricolore,Maurizio Mariani,Eusebio Di Francesco,Gian Piero Ventura	,Sassuolo,Palermo,2,2
+3879737,25,Estadio Olímpico,Andrea Gervasoni,Stefano Pioli,Luigi Delneri,Lazio,Hellas Verona,5,2
+3879738,25,Stadio Alberto Braglia (Modena),Paolo Tagliavento,Fabrizio Castori,Luciano Spalletti,Carpi,AS Roma,1,3
+3879739,25,Allianz Stadium    	,Daniele Orsato,Massimiliano Allegri,Maurizio Sarri,Juventus,Napoli,1,0
+3879741,25,Stadio Marc''Antonio Bentegodi,Davide Ghersini,Rolando Maran,Eusebio Di Francesco,Chievo,Sassuolo,1,1
+3879740,25,Stadio Carlo Castellani,Marco Di Bello,Marco Giampaolo,Roberto Stellone,Empoli,Frosinone,1,2
+3879742,25,Stadio Giuseppe Meazza    ,Gianpaolo Calvarese	,Siniša Mihajlović,Gian Piero Gasperini,AC Milan,Genoa,2,1
+3879746,25,Stadio Artemio Franchi    	,Paolo Silvio Mazzoleni,Paulo Manuel Carvalho de Sousa,Roberto Mancini,Fiorentina,Inter Milan,2,1
+3879744,25,Stadio Comunale Luigi Ferraris,Antonio Damato,Vincenzo Montella,Edoardo Reja,Sampdoria,Atalanta,0,0
+3879745,25,Stadio Renzo Barbera,Angelo Cervellera,Giovanni Bosi,Gian Piero Ventura	,Palermo,Torino,1,3
+3879743,25,Dacia Arena,Carmine Russo,Stefano Colantuono,Roberto Donadoni,Udinese,Bologna,0,1
+3879747,26,Stadio Renato Dall''Ara,Massimiliano Irrati,Roberto Donadoni,Massimiliano Allegri,Bologna,Juventus,0,0
+3879748,26,Stadio Marc''Antonio Bentegodi,Marco Guida,Luigi Delneri,Rolando Maran,Hellas Verona,Chievo,3,1
+3879749,26,Stadio Giuseppe Meazza    ,Davide Massa,Roberto Mancini,Vincenzo Montella,Inter Milan,Sampdoria,3,1
+3879750,26,Gewiss Stadium,Domenico Celi,Edoardo Reja,Paulo Manuel Carvalho de Sousa,Atalanta,Fiorentina,2,3
+3879754,26,Stadio Olimpico Grande Torino,Claudio Gavillucci,Gian Piero Ventura	,Fabrizio Castori,Torino,Carpi,0,0
+3879755,26,Stadio Comunale Matusa,Carmine Russo,Roberto Stellone,Stefano Pioli,Frosinone,Lazio,0,0
+3879753,26,MAPEI Stadium - Città del Tricolore,Paolo Valeri,Eusebio Di Francesco,Marco Giampaolo,Sassuolo,Empoli,3,2
+3879752,26,Stadio Comunale Luigi Ferraris,Andrea Gervasoni,Gian Piero Gasperini,Stefano Colantuono,Genoa,Udinese,2,1
+3879751,26,Estadio Olímpico,Piero Giacomelli,Luciano Spalletti,Giuseppe Iachini,AS Roma,Palermo,5,0
+3879756,26,Stadio Diego Armando Maradona,Luca Banti,Maurizio Sarri,Siniša Mihajlović,Napoli,AC Milan,1,1
+3879758,27,Stadio Giuseppe Meazza    ,Domenico Celi,Siniša Mihajlović,Gian Piero Ventura	,AC Milan,Torino,1,0
+3879757,27,Stadio Carlo Castellani,Andrea Gervasoni,Marco Giampaolo,Luciano Spalletti,Empoli,AS Roma,1,3
+3879764,27,Stadio Marc''Antonio Bentegodi,Michael Fabbri,Rolando Maran,Gian Piero Gasperini,Chievo,Genoa,1,0
+3879763,27,Stadio Comunale Luigi Ferraris,Daniele Orsato,Vincenzo Montella,Roberto Stellone,Sampdoria,Frosinone,2,0
+3879762,27,Dacia Arena,Daniele Doveri,Stefano Colantuono,Luigi Delneri,Udinese,Hellas Verona,2,0
+3879761,27,Stadio Alberto Braglia (Modena),Gianpaolo Calvarese	,Fabrizio Castori,Edoardo Reja,Carpi,Atalanta,1,1
+3879760,27,Stadio Renzo Barbera,Marco Di Bello,Giuseppe Iachini,Roberto Donadoni,Palermo,Bologna,0,0
+3879759,27,Allianz Stadium    	,Gianluca Rocchi,Massimiliano Allegri,Roberto Mancini,Juventus,Inter Milan,2,0
+3879766,27,Estadio Olímpico,Antonio Damato,Stefano Pioli,Eusebio Di Francesco,Lazio,Sassuolo,0,2
+3879765,27,Stadio Artemio Franchi    	,Paolo Tagliavento,Paulo Manuel Carvalho de Sousa,Maurizio Sarri,Fiorentina,Napoli,1,1
+3879767,28,Estadio Olímpico,Massimiliano Irrati,Luciano Spalletti,Paulo Manuel Carvalho de Sousa,AS Roma,Fiorentina,4,1
+3879769,28,Stadio Diego Armando Maradona,Marco Di Bello,Maurizio Sarri,Rolando Maran,Napoli,Chievo,3,1
+3879768,28,Stadio Marc''Antonio Bentegodi,Angelo Cervellera,Luigi Delneri,Vincenzo Montella,Hellas Verona,Sampdoria,0,3
+3879773,28,Stadio Comunale Matusa,Nicola Rizzoli,Roberto Stellone,Stefano Colantuono,Frosinone,Udinese,2,0
+3879774,28,Stadio Giuseppe Meazza    ,Carmine Russo,Roberto Mancini,Giuseppe Iachini,Inter Milan,Palermo,3,1
+3879776,28,Stadio Renato Dall''Ara,Paolo Silvio Mazzoleni,Roberto Donadoni,Fabrizio Castori,Bologna,Carpi,0,0
+3879771,28,MAPEI Stadium - Città del Tricolore,Piero Giacomelli,Eusebio Di Francesco,Siniša Mihajlović,Sassuolo,AC Milan,2,0
+3879772,28,Stadio Olimpico Grande Torino,Davide Massa,Gian Piero Ventura	,Stefano Pioli,Torino,Lazio,1,1
+3879775,28,Stadio Comunale Luigi Ferraris,Maurizio Mariani,Gian Piero Gasperini,Marco Giampaolo,Genoa,Empoli,1,0
+3879770,28,Gewiss Stadium,Paolo Valeri,Edoardo Reja,Massimiliano Allegri,Atalanta,Juventus,0,2
+3879777,29,Allianz Stadium    	,Domenico Celi,Massimiliano Allegri,Eusebio Di Francesco,Juventus,Sassuolo,1,0
+3879779,29,Stadio Giuseppe Meazza    ,Gianpaolo Calvarese	,Roberto Mancini,Roberto Donadoni,Inter Milan,Bologna,2,1
+3879778,29,Stadio Carlo Castellani,Michael Fabbri,Marco Giampaolo,Vincenzo Montella,Empoli,Sampdoria,1,1
+3879785,29,Estadio Olímpico,Marco Guida,Stefano Pioli,Edoardo Reja,Lazio,Atalanta,2,0
+3879786,29,Stadio Renzo Barbera,Gianluca Rocchi,Walter Novellino,Maurizio Sarri,Palermo,Napoli,0,1
+3879784,29,Stadio Comunale Luigi Ferraris,Daniele Doveri,Gian Piero Gasperini,Gian Piero Ventura	,Genoa,Torino,3,2
+3879783,29,Dacia Arena,Paolo Silvio Mazzoleni,Stefano Colantuono,Luciano Spalletti,Udinese,AS Roma,1,2
+3879782,29,Stadio Alberto Braglia (Modena),Luca Banti,Fabrizio Castori,Roberto Stellone,Carpi,Frosinone,2,1
+3879781,29,Stadio Marc''Antonio Bentegodi,Antonio Damato,Rolando Maran,Siniša Mihajlović,Chievo,AC Milan,0,0
+3879780,29,Stadio Artemio Franchi    	,Claudio Gavillucci,Paulo Manuel Carvalho de Sousa,Luigi Delneri,Fiorentina,Hellas Verona,1,1
+3879788,30,Stadio Carlo Castellani,Davide Massa,Marco Giampaolo,Walter Novellino,Empoli,Palermo,0,0
+3879787,30,Estadio Olímpico,Daniele Orsato,Luciano Spalletti,Roberto Mancini,AS Roma,Inter Milan,1,1
+3879792,30,Stadio Comunale Luigi Ferraris,Luca Pairetto,Vincenzo Montella,Rolando Maran,Sampdoria,Chievo,0,1
+3879795,30,Stadio Marc''Antonio Bentegodi,Carmine Russo,Luigi Delneri,Fabrizio Castori,Hellas Verona,Carpi,1,2
+3879794,30,Gewiss Stadium,Piero Giacomelli,Edoardo Reja,Roberto Donadoni,Atalanta,Bologna,2,0
+3879796,30,Stadio Diego Armando Maradona,Andrea Gervasoni,Maurizio Sarri,Gian Piero Gasperini,Napoli,Genoa,3,1
+3879793,30,MAPEI Stadium - Città del Tricolore,Marco Di Bello,Eusebio Di Francesco,Luigi De Canio,Sassuolo,Udinese,1,1
+3879791,30,Stadio Giuseppe Meazza    ,Paolo Tagliavento,Siniša Mihajlović,Stefano Pioli,AC Milan,Lazio,1,1
+3879790,30,Stadio Olimpico Grande Torino,Nicola Rizzoli,Gian Piero Ventura	,Massimiliano Allegri,Torino,Juventus,1,4
+3879789,30,Stadio Comunale Matusa,Paolo Valeri,Roberto Stellone,Paulo Manuel Carvalho de Sousa,Frosinone,Fiorentina,0,0
+3879798,31,Allianz Stadium    	,Gianpaolo Calvarese	,Massimiliano Allegri,Marco Giampaolo,Juventus,Empoli,1,0
+3879797,31,Stadio Alberto Braglia (Modena),Angelo Cervellera,Fabrizio Castori,Eusebio Di Francesco,Carpi,Sassuolo,1,3
+3879805,31,Gewiss Stadium,Gianluca Rocchi,Edoardo Reja,Siniša Mihajlović,Atalanta,AC Milan,2,1
+3879804,31,Stadio Comunale Luigi Ferraris,Paolo Silvio Mazzoleni,Gian Piero Gasperini,Roberto Stellone,Genoa,Frosinone,4,0
+3879803,31,Dacia Arena,Massimiliano Irrati,Luigi De Canio,Maurizio Sarri,Udinese,Napoli,3,1
+3879802,31,Stadio Marc''Antonio Bentegodi,Maurizio Mariani,Rolando Maran,Walter Novellino,Chievo,Palermo,3,1
+3879801,31,Stadio Giuseppe Meazza    ,Marco Guida,Roberto Mancini,Gian Piero Ventura	,Inter Milan,Torino,1,2
+3879800,31,Stadio Artemio Franchi    	,Andrea Gervasoni,Paulo Manuel Carvalho de Sousa,Vincenzo Montella,Fiorentina,Sampdoria,1,1
+3879799,31,Estadio Olímpico,Luca Banti,Stefano Pioli,Luciano Spalletti,Lazio,AS Roma,1,4
+3879806,31,Stadio Renato Dall''Ara,Davide Ghersini,Roberto Donadoni,Luigi Delneri,Bologna,Hellas Verona,0,1
+3879810,32,Stadio Giuseppe Meazza    ,Daniele Orsato,Siniša Mihajlović,Massimiliano Allegri,AC Milan,Juventus,1,2
+3879809,32,MAPEI Stadium - Città del Tricolore,Claudio Gavillucci,Eusebio Di Francesco,Gian Piero Gasperini,Sassuolo,Genoa,0,1
+3879808,32,Stadio Comunale Matusa,Paolo Tagliavento,Roberto Stellone,Roberto Mancini,Frosinone,Inter Milan,0,1
+3879807,32,Stadio Marc''Antonio Bentegodi,Michael Fabbri,Rolando Maran,Fabrizio Castori,Chievo,Carpi,1,0
+3879815,32,Stadio Olimpico Grande Torino,Marco Di Bello,Gian Piero Ventura	,Edoardo Reja,Torino,Atalanta,2,1
+3879814,32,Stadio Carlo Castellani,Antonio Damato,Marco Giampaolo,Paulo Manuel Carvalho de Sousa,Empoli,Fiorentina,2,0
+3879813,32,Stadio Comunale Luigi Ferraris,Carmine Russo,Vincenzo Montella,Luigi De Canio,Sampdoria,Udinese,2,0
+3879812,32,Stadio Renzo Barbera,Andrea Gervasoni,Walter Novellino,Simone Inzaghi,Palermo,Lazio,0,3
+3879811,32,Stadio Diego Armando Maradona,Domenico Celi,Maurizio Sarri,Luigi Delneri,Napoli,Hellas Verona,3,0
+3879816,32,Estadio Olímpico,Davide Massa,Luciano Spalletti,Roberto Donadoni,AS Roma,Bologna,1,1
+3879817,33,Stadio Giuseppe Meazza    ,Gianluca Rocchi,Roberto Mancini,Maurizio Sarri,Inter Milan,Napoli,2,0
+3879819,33,Stadio Alberto Braglia (Modena),Nicola Rizzoli,Fabrizio Castori,Gian Piero Gasperini,Carpi,Genoa,4,1
+3879818,33,Stadio Renato Dall''Ara,Rosario Abisso,Roberto Donadoni,Gian Piero Ventura	,Bologna,Torino,0,1
+3879825,33,Estadio Olímpico,Angelo Cervellera,Simone Inzaghi,Marco Giampaolo,Lazio,Empoli,2,0
+3879826,33,Stadio Marc''Antonio Bentegodi,Daniele Doveri,Luigi Delneri,Roberto Stellone,Hellas Verona,Frosinone,1,2
+3879824,33,Stadio Comunale Luigi Ferraris,Paolo Valeri,Vincenzo Montella,Cristian Brocchi,Sampdoria,AC Milan,0,1
+3879823,33,Gewiss Stadium,Massimiliano Irrati,Edoardo Reja,Luciano Spalletti,Atalanta,AS Roma,3,3
+3879822,33,Dacia Arena,Claudio Gavillucci,Luigi De Canio,Rolando Maran,Udinese,Chievo,0,0
+3879821,33,Stadio Artemio Franchi    	,Luca Banti,Paulo Manuel Carvalho de Sousa,Eusebio Di Francesco,Fiorentina,Sassuolo,3,1
+3879820,33,Allianz Stadium    	,Piero Giacomelli,Massimiliano Allegri,Davide Ballardini,Juventus,Palermo,4,0
+3879827,34,Stadio Diego Armando Maradona,Andrea Gervasoni,Maurizio Sarri,Roberto Donadoni,Napoli,Bologna,6,0
+3879833,34,Allianz Stadium    	,Paolo Silvio Mazzoleni,Massimiliano Allegri,Simone Inzaghi,Juventus,Lazio,3,0
+3879828,34,Estadio Olímpico,Gianpaolo Calvarese	,Luciano Spalletti,Gian Piero Ventura	,AS Roma,Torino,3,2
+3879832,34,Stadio Renzo Barbera,Daniele Doveri,Davide Ballardini,Edoardo Reja,Palermo,Atalanta,2,2
+3879830,34,Stadio Comunale Luigi Ferraris,Massimiliano Irrati,Gian Piero Gasperini,Roberto Mancini,Genoa,Inter Milan,1,0
+3879835,34,Stadio Marc''Antonio Bentegodi,Carmine Russo,Rolando Maran,Roberto Stellone,Chievo,Frosinone,5,1
+3879834,34,Dacia Arena,Davide Massa,Luigi De Canio,Paulo Manuel Carvalho de Sousa,Udinese,Fiorentina,2,1
+3879831,34,MAPEI Stadium - Città del Tricolore,Maurizio Mariani,Eusebio Di Francesco,Vincenzo Montella,Sassuolo,Sampdoria,0,0
+3879829,34,Stadio Carlo Castellani,Marco Serra,Marco Giampaolo,Luigi Delneri,Empoli,Hellas Verona,1,0
+3879836,34,Stadio Giuseppe Meazza    ,Marco Guida,Cristian Brocchi,Fabrizio Castori,AC Milan,Carpi,0,0
+3879837,35,Stadio Giuseppe Meazza    ,Domenico Celi,Roberto Mancini,Luigi De Canio,Inter Milan,Udinese,3,1
+3879838,35,Stadio Comunale Luigi Ferraris,Nicola Rizzoli,Vincenzo Montella,Simone Inzaghi,Sampdoria,Lazio,2,1
+3879839,35,Stadio Artemio Franchi    	,Paolo Tagliavento,Paulo Manuel Carvalho de Sousa,Massimiliano Allegri,Fiorentina,Juventus,1,2
+3879840,35,Stadio Renato Dall''Ara,Antonio Damato,Roberto Donadoni,Gian Piero Gasperini,Bologna,Genoa,2,0
+3879843,35,Stadio Olimpico Grande Torino,Michael Fabbri,Gian Piero Ventura	,Eusebio Di Francesco,Torino,Sassuolo,1,3
+3879842,35,Gewiss Stadium,Angelo Cervellera,Edoardo Reja,Rolando Maran,Atalanta,Chievo,1,0
+3879841,35,Stadio Comunale Matusa,Gianluca Rocchi,Roberto Stellone,Davide Ballardini,Frosinone,Palermo,0,2
+3879846,35,Stadio Marc''Antonio Bentegodi,Marco Di Bello,Luigi Delneri,Cristian Brocchi,Hellas Verona,AC Milan,2,1
+3879845,35,Estadio Olímpico,Daniele Orsato,Luciano Spalletti,Maurizio Sarri,AS Roma,Napoli,1,0
+3879844,35,Stadio Alberto Braglia (Modena),Paolo Valeri,Fabrizio Castori,Marco Giampaolo,Carpi,Empoli,1,0
+3879847,36,Dacia Arena,Maurizio Mariani,Luigi De Canio,Gian Piero Ventura	,Udinese,Torino,1,5
+3879848,36,Stadio Marc''Antonio Bentegodi,Marco Guida,Rolando Maran,Paulo Manuel Carvalho de Sousa,Chievo,Fiorentina,0,0
+3879854,36,MAPEI Stadium - Città del Tricolore,Claudio Gavillucci,Eusebio Di Francesco,Luigi Delneri,Sassuolo,Hellas Verona,1,0
+3879853,36,Estadio Olímpico,Luca Banti,Simone Inzaghi,Roberto Mancini,Lazio,Inter Milan,2,0
+3879852,36,Stadio Renzo Barbera,Paolo Silvio Mazzoleni,Davide Ballardini,Vincenzo Montella,Palermo,Sampdoria,2,0
+3879851,36,Stadio Giuseppe Meazza    ,Davide Massa,Cristian Brocchi,Roberto Stellone,AC Milan,Frosinone,3,3
+3879850,36,Allianz Stadium    	,Massimiliano Irrati,Massimiliano Allegri,Fabrizio Castori,Juventus,Carpi,2,0
+3879849,36,Stadio Carlo Castellani,Daniele Chiffi,Marco Giampaolo,Roberto Donadoni,Empoli,Bologna,0,0
+3879856,36,Stadio Comunale Luigi Ferraris,Andrea Gervasoni,Gian Piero Gasperini,Luciano Spalletti,Genoa,AS Roma,2,3
+3879855,36,Stadio Diego Armando Maradona,Piero Giacomelli,Maurizio Sarri,Edoardo Reja,Napoli,Atalanta,2,1
+3879858,37,Stadio Renato Dall''Ara,Daniele Doveri,Roberto Donadoni,Cristian Brocchi,Bologna,AC Milan,0,1
+3879857,37,Stadio Giuseppe Meazza    ,Marco Di Bello,Roberto Mancini,Marco Giampaolo,Inter Milan,Empoli,2,1
+3879863,37,Gewiss Stadium,Nicola Rizzoli,Edoardo Reja,Luigi De Canio,Atalanta,Udinese,1,1
+3879862,37,Stadio Olimpico Grande Torino,Antonio Damato,Gian Piero Ventura	,Maurizio Sarri,Torino,Napoli,1,2
+3879866,37,Estadio Olímpico,Domenico Celi,Luciano Spalletti,Rolando Maran,AS Roma,Chievo,3,0
+3879865,37,Stadio Comunale Luigi Ferraris,Luca Banti,Vincenzo Montella,Gian Piero Gasperini,Sampdoria,Genoa,0,3
+3879864,37,Stadio Marc''Antonio Bentegodi,Fabio Maresca,Luigi Delneri,Massimiliano Allegri,Hellas Verona,Juventus,2,1
+3879861,37,Stadio Comunale Matusa,Angelo Cervellera,Roberto Stellone,Eusebio Di Francesco,Frosinone,Sassuolo,0,1
+3879860,37,Stadio Artemio Franchi    	,Daniele Orsato,Paulo Manuel Carvalho de Sousa,Davide Ballardini,Fiorentina,Palermo,0,0
+3879859,37,Stadio Alberto Braglia (Modena),Gianluca Rocchi,Fabrizio Castori,Simone Inzaghi,Carpi,Lazio,1,3
+3879870,38,Allianz Stadium    	,Claudio Gavillucci,Massimiliano Allegri,Vincenzo Montella,Juventus,Sampdoria,5,0
+3879869,38,Stadio Giuseppe Meazza    ,Nicola Rizzoli,Cristian Brocchi,Luciano Spalletti,AC Milan,AS Roma,1,3
+3879868,38,MAPEI Stadium - Città del Tricolore,Andrea Gervasoni,Eusebio Di Francesco,Roberto Mancini,Sassuolo,Inter Milan,3,1
+3879867,38,Stadio Diego Armando Maradona,Domenico Celi,Maurizio Sarri,Roberto Stellone,Napoli,Frosinone,4,0
+3879876,38,Stadio Comunale Luigi Ferraris,Gianluca Aureliano,Gian Piero Gasperini,Edoardo Reja,Genoa,Atalanta,1,2
+3879875,38,Stadio Renzo Barbera,Massimiliano Irrati,Davide Ballardini,Luigi Delneri,Palermo,Hellas Verona,3,2
+3879874,38,Estadio Olímpico,Gianluca Manganiello,Simone Inzaghi,Paulo Manuel Carvalho de Sousa,Lazio,Fiorentina,2,4
+3879873,38,Stadio Carlo Castellani,Francesco Paolo Saia,Marco Giampaolo,Gian Piero Ventura	,Empoli,Torino,2,1
+3879872,38,Stadio Marc''Antonio Bentegodi,Riccardo Ros,Rolando Maran,Roberto Donadoni,Chievo,Bologna,0,0
+3879871,38,Dacia Arena,Paolo Silvio Mazzoleni,Luigi De Canio,Fabrizio Castori,Udinese,Carpi,1,2
