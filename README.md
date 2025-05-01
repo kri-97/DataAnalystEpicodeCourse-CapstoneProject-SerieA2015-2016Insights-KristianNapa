@@ -44,8 +44,8 @@ Tabelle Dimensionali e Tabelle Fatti:
 3) DimMatches
 4) DimPlayers
 1) FactGoals 
-2) FactPlayers (AllPlayersSeasonOverviw.csv)
-3) FactTeams (AllTeamSeasonOverviw.csv)
+2) FactPlayers (AllPlayersSeasonOverview.csv)
+3) FactTeams (AllTeamSeasonOverview.csv)
 
 Queste tabelle sono state salvate in formato .csv per essere caricate in Power BI.
 Inoltre, è incluso un file .json creato manualmente per la personalizzazione del tema grafico del report.
