@@ -38,12 +38,11 @@ L'ER è stato fondamentale per:
 1) Visualizzare l'intero flusso dei dati a colpo d'occhio, facilitando anche il caricamento e la gestione in Power BI.
 2) Identificare le relazioni logiche tra le entità principali (partite, squadre, allenatori, giocatori, eventi).
 ### Tabelle create:
-Tabelle Dimensionali:
+Tabelle Dimensionali e Tabelle Fatti:
 1) DimCoaches
 2) DimTeams
 3) DimMatches
 4) DimPlayers
-Tabelle Fatti:
 1) FactGoals 
 2) FactPlayers (AllPlayersSeasonOverviw.csv)
 3) FactTeams (AllTeamSeasonOverviw.csv)
