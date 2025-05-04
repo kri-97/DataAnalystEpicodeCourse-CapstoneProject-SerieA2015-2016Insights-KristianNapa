@@ -8,6 +8,7 @@ L’obiettivo generale del progetto è la realizzazione di uno strumento interat
 2) Quali sono le principali caratteristiche di squadre e giocatori?
 3) Chi ha prodotto di più in termini di rendimento?
 4) Chi ha giocato di più?
+
 Un focus particolare è stato dedicato all'analisi della AS Roma, con l'obiettivo specifico di confrontare il rendimento della squadra sotto la guida dei due allenatori della stagione 2015/2016: Rudi Garcia e Luciano Spalletti, entrambi con 19 partite all’attivo.
 
 ## 📁 Struttura del Repository
